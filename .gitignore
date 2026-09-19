@@ -1,0 +1,5 @@
+# Ignorar archivos de datos sensibles
+Contraseñas.json
+Generador_Contrasenas/Contraseñas.json
+**/Contraseñas.json
+.DS_Store
